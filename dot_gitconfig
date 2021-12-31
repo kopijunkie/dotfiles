@@ -1,0 +1,12 @@
+[user]
+	email = kimmi.gan@kopijunkie.net
+	name = Kimmi Gan
+
+[core]
+        excludesfile = ~/.gitignore
+
+[init]
+	defaultBranch = main
+
+[url "https://github.com/"]
+	insteadOf = gh:
