@@ -5,13 +5,29 @@ My personal dotfiles, managed by [chezmoi](https://github.com/twpayne/chezmoi)
 ## Usage
 
 Checkout repo
-```$ chezmoi init https://github.com/username/dotfiles.git```
+
+```bash
+$ chezmoi init https://github.com/username/dotfiles.git
+```
 
 Check diff(s)
-```$ chezmoi diff```
+
+```bash
+$ chezmoi diff
+```
 
 Apply changes
-```$ chezmoi apply```
+
+```bash
+$ chezmoi apply
+```
 
 Get latest changes + apply
-```$ chezmoi update```
+
+```bash
+$ chezmoi update
+```
+
+### To install VS Code extensions
+
+Run [`install-extension.sh`](.vscode/install-extensions.sh) after VS Code has been installed and the `code` command has been [set up](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line).
