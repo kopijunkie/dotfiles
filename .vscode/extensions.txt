@@ -1,0 +1,10 @@
+cssho.vscode-svgviewer
+dbaeumer.vscode-eslint
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+liviuschera.noctis
+ms-python.python
+ms-python.vscode-pylance
+redhat.java
+vscjava.vscode-maven
+vscode-icons-team.vscode-icons
