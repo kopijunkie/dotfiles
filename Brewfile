@@ -16,12 +16,15 @@ brew "readline"
 brew "watchman"
 brew "mas" # Mac App Store manager
 
-# Development
+# Development Stuff
 brew "node"
 brew "yarn"
 brew "mysql"
 brew "python"
+cask "gitkraken"
 cask "ngrok"
+cask "gitkraken"
+cask "postman"
 
 # Apps
 cask "balenaetcher"
@@ -30,15 +33,12 @@ cask "discord"
 cask "dropbox"
 cask "expressvpn"
 cask "firefox"
-cask "gitkraken"
 cask "google-chrome"
 cask "imageoptim"
 cask "libreoffice"
 cask "notion"
-cask "postman"
 cask "spotify"
 cask "suspicious-package"
-cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
 cask "zoom"
