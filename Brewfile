@@ -50,3 +50,4 @@ mas "Magnet", id: 441258766
 mas "Affinity Designer", id: 824171161
 mas "HP Smart", id: 1474276998
 mas "The Unarchiver", id: 425424353
+mas "Trello", id: 1278508951
