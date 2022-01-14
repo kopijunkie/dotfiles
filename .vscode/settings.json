@@ -1,6 +1,5 @@
 {
   "workbench.iconTheme": "vscode-icons",
-  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.minimap.enabled": false,
   "editor.bracketPairColorization.enabled": true,
@@ -8,5 +7,10 @@
   "terminal.integrated.fontFamily": "MesloLGS NF",
   "extensions.ignoreRecommendations": true,
   "workbench.colorTheme": "Noctis Obscuro",
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable"
 }
