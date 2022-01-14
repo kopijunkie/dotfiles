@@ -7,7 +7,6 @@
   "terminal.integrated.fontFamily": "MesloLGS NF",
   "extensions.ignoreRecommendations": true,
   "workbench.colorTheme": "Noctis Obscuro",
-  "security.workspace.trust.untrustedFiles": "open",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
