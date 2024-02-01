@@ -1,4 +1,4 @@
-cssho.vscode-svgviewer
+Dheovani.svg-viewer
 dbaeumer.vscode-eslint
 EditorConfig.EditorConfig
 esbenp.prettier-vscode
@@ -8,18 +8,8 @@ ms-python.vscode-pylance
 redhat.java
 vscjava.vscode-maven
 vscode-icons-team.vscode-icons
-cssho.vscode-svgviewer
-dbaeumer.vscode-eslint
 eamodio.gitlens
-EditorConfig.EditorConfig
-esbenp.prettier-vscode
-GraphQL.vscode-graphql
-liviuschera.noctis
-ms-python.python
-ms-python.vscode-pylance
+GraphQL.vscode-GraphQL
 ms-toolsai.jupyter
 oderwat.indent-rainbow
-redhat.java
-vscjava.vscode-maven
-vscode-icons-team.vscode-icons
 wix.vscode-import-cost
