@@ -1,7 +1,5 @@
 # Taps
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-fonts"
 tap "homebrew/core"
 
 # Binaries
@@ -17,34 +15,32 @@ brew "watchman"
 brew "mas" # Mac App Store manager
 
 # Development Stuff
-brew "node"
 brew "yarn"
 brew "mysql"
 brew "python"
-cask "gitkraken"
-cask "ngrok"
-cask "gitkraken"
-cask "postman"
+brew install --cask "fork"
+brew install --cask "ngrok"
+brew install --cask "postman"
 
 # Apps
-cask "balenaetcher"
-cask "deluge"
-cask "discord"
-cask "dropbox"
-cask "expressvpn"
-cask "firefox"
-cask "google-chrome"
-cask "imageoptim"
-cask "libreoffice"
-cask "notion"
-cask "spotify"
-cask "suspicious-package"
-cask "vlc"
-cask "whatsapp"
-cask "zoom"
+brew install --cask "balenaetcher"
+brew install --cask "deluge"
+brew install --cask "discord"
+brew install --cask "dropbox"
+brew install --cask "expressvpn"
+brew install --cask "firefox"
+brew install --cask "google-chrome"
+brew install --cask "imageoptim"
+brew install --cask "libreoffice"
+brew install --cask "notion"
+brew install --cask "spotify"
+brew install --cask "suspicious-package"
+brew install --cask "vlc"
+brew install --cask "whatsapp"
+brew install --cask "zoom"
+brew install --cask "1password"
 
 # Mac App Store
-mas "1Password 7", id: 1333542190
 mas "Slack", id: 803453959
 mas "Magnet", id: 441258766
 mas "Affinity Designer", id: 824171161
