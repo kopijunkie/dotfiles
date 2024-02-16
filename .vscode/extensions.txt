@@ -13,3 +13,4 @@ GraphQL.vscode-GraphQL
 ms-toolsai.jupyter
 oderwat.indent-rainbow
 wix.vscode-import-cost
+wayou.vscode-todo-highlight
